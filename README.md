@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Ziemski et al., "Cdc48-like protein of actinobacteria (Cpa) is a novel proteasome interactor in mycobacteria and related organisms". eLife, 2018. http://dx.doi.org/10.7554/eLife.34055
+
 # pca-protein-analysis
 
 The ranking algorithm and PCA analysis are entirely based on: B. Wang & M.A. Kennedy (2014). Principal components analysis of protein sequence clusters. *J Struct Funct Genomics*, 15(1), 1-11. [doi:10.1007/s10969-014-9173-2](https://doi.org/10.1007/s10969-014-9173-2)
